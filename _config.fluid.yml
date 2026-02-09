@@ -1051,6 +1051,13 @@ links:
       link: " https://fuyaoskyrocket.ing",
       avatar: "https://github.com/skyrocketingHong.png"
     }
+    - {
+      title: "米来吉Mirage",
+      intro: "",
+      link: "https://miraged.fun/",
+      avatar: "https://avatars.githubusercontent.com/u/32635074?v=4"
+    }
+
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
